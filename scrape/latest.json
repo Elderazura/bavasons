@@ -1,0 +1,23 @@
+{
+  "https://www.bavasons.in/": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/about-us": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/journal": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/projects": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/designer-interiors": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/events": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/customer-enquiry-form": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/contact": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/villas": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/vb-earth": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/apartments": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/commercial-projects": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/aura": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/sale-aura": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/thank-you": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/privacy-policy-page": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/villa-exotica": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>",
+  "https://www.bavasons.in/gallery": "<urlopen error [Errno 61] Connection refused>",
+  "https://www.bavasons.in/test": "<urlopen error [Errno 61] Connection refused>",
+  "https://www.bavasons.in/untitled": "<urlopen error [Errno 61] Connection refused>",
+  "https://bavasons.in/": "<urlopen error [Errno 61] Connection refused>"
+}

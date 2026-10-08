@@ -1,0 +1,1784 @@
+{
+  "about-us": {
+    "headings": [
+      "FOUNDER",
+      "Fazal Ali",
+      "DIRECTOR",
+      "Rizwan Fazal",
+      "Apartments",
+      "Villas",
+      "Commercial Spaces",
+      "Projects completed over the years",
+      "Onam 23",
+      "Meet Our Happy Workers",
+      "Projects",
+      "Apartments",
+      "Projects",
+      "Villas",
+      "Loading..."
+    ],
+    "image_count": 7,
+    "images": [
+      {
+        "type": "img",
+        "heading": "Fazal Ali",
+        "file": "/media/5ed0b68e592a1f915fb3f023_IMG_6314.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Fazal Ali",
+        "file": "/media/5ed0b68e4f9b6818c6e36c09_IMG_6315.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Rizwan Fazal",
+        "file": "/media/5ed1d9b54b317b740772b14d_architecture-firm-06.png",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Apartments",
+        "file": "/media/5ed1d9b5646819bb7310b446_architecture-firm-04.png",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Villas",
+        "file": "/media/5ed1d9b5a553da04f8dcfd36_architecture-firm-02.png",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Projects completed over the years",
+        "file": "/media/658a735140527efa985e12f7_play-1.svg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Villas",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": [
+      {
+        "file": "/media/897851122",
+        "name": ""
+      },
+      {
+        "file": "/media/897852607",
+        "name": ""
+      },
+      {
+        "file": "/media/897854053",
+        "name": ""
+      }
+    ]
+  },
+  "apartments": {
+    "headings": [
+      "APARTMENTS"
+    ],
+    "image_count": 44,
+    "images": [
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c020a0977f4d1a4eee13_VB-Floora-(1).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c128a2501f2dea9e5614_VB-hills-(2).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c1f18a3127c18377b1a2_Pavilliov-1-and-2.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c2ab10bcba3c9b5e6abd_VB-Oak-(2).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c322ef82aef3db874f21_VB-Canaopy-(2).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c3b4ef82ae5bd0875545_VB-Bluechip.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c4c08a312744b977bd4d_FB_IMG_1588972006954-01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c4fdec5df216f9feea1d_VB-Crest.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c5355ade1a7595c7c1ff_VB-Dale.png",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c5d26103a343e6f200a9_VB-Garden.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c6126103a308c0f20168_VB-Green-Manor-(1).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c6787eda2a2025d2ff7e_VB-Hive.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c6ec8a3127825877cbaa_VB-Mist-(2).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c74a8a31273a0477cd69_VB-moon-reach.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c7856103a3f0f1f203ff_VB-residency.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c82bec5df2ac44ff0084_VB-Royal-(1).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c892a553da3f1deacf83_VB-Shelter.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c8f7c6c9780462e6adb8_VB-Villa.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4c02210bcbaa2605e5e61_VB-Floora-(2).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed4d49b7eda2a610cd348a0_FB_IMG_1588967555249-01.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed343dd412d2b7743b05f31_VB-Earth-.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/628b44bad78d351133e18914_Aura-VB.webp",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed768718f46fea7d6ae58a6_VB-Park.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0ea8d592a1ff7d8b4eaa8_IMG-9471.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eb61411f134c75ff0663_VB-UDYOG.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0ea8d67f0ba34cc1d49e0_IMG-9468.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0ea8ea20c8f1a62cadfe8_IMG-9470.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eb38c534bdf99c3fb181_VB-TERRACE.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eb20a20c8f5800cae4c4_VB-ROYAL.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eaad67f0ba48c91d4a29_VB-PARK.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0ea8ef1ff841c21457dba_IMG-9474.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eb62592a1f06a0b4ebba_VB-WILLOWS.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eb2152f4f487e634e3f5_VB-SPRINGS-copy.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eb203eeb302ceb412412_VB-RESIDENCY-copy.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0ea8ef1ff845d04457db9_IMG-9467.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eb6258516c51cdc5f2eb_VB-WILLOWS-copy.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eb2067f0ba40971d4d16_VB-ROYAL-copy.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eaad4f9b6835fde48277_VB-HIVE-1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eaac411f130fd0ff0336_VB-COURT.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eaac52bc1894f3f2b078_VB-MIST.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0ea8e52bc184041f2af8d_VB-BLUE-CHIP.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eaad4f9b686f60e48276_VB-DALE.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ed0eb2067f0baee281d4d17_VB-SPRINGS.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "APARTMENTS",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": []
+  },
+  "aura": {
+    "headings": [
+      "Aura",
+      "Offers",
+      "Specifications",
+      "Brochure :",
+      "Location :",
+      "Floor Plans :",
+      "Kitchen : Complimentary",
+      "Gallery",
+      "Gallery"
+    ],
+    "image_count": 10,
+    "images": [
+      {
+        "type": "img",
+        "heading": "Aura",
+        "file": "/media/63907883666cec3fdde28cc5_IMG-20221106-WA0022-01.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Offers",
+        "file": "/media/61a642679ad9ba9895c506cd_WhatsApp-Image-2021-11-23-at-8.34.25-PM.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Specifications",
+        "file": "/media/619ca369a96ceb8890c6fce1_Specifications-Aura.png",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Location :",
+        "file": "/media/619c96c92095e32b2cdd307f_IMG-20211113-WA0011.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Floor Plans :",
+        "file": "/media/619c96c924a31d0c81ec85ed_A-TOP-VIEW.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Floor Plans :",
+        "file": "/media/619c96c9d7a3fa70ccdc2ec1_TYPE-1A2A-TOP.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Floor Plans :",
+        "file": "/media/61a654033192c457b105e4ac_AURA--BAVASONS_.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Floor Plans :",
+        "file": "/media/61a653fe0c65051c3b823d2f_AURA--BAVASONS_211123_200447-7.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Kitchen : Complimentary",
+        "file": "/media/61a6567d3c6c7b1486ca7847_kitchen-(1)-01.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/639079463e8c0e83509c9ccb_20221205_113911-01.jpeg",
+        "alt": ""
+      }
+    ],
+    "lightbox": [
+      {
+        "file": "/media/639079463e8c0e83509c9ccb_20221205_113911-01.jpeg",
+        "name": "20221205_113911-01.jpeg"
+      },
+      {
+        "file": "/media/64059a0900b83d5b333ec77e_20220517_120131-01.jpeg",
+        "name": "20220517_120131-01.jpeg"
+      },
+      {
+        "file": "/media/64059a084b5726bba1a32f58_IMG-20211006-WA0031-01.jpeg",
+        "name": "IMG-20211006-WA0031-01.jpeg"
+      },
+      {
+        "file": "/media/64059a09bac13658eb9ad339_IMG-20220714-WA0038-02.jpeg",
+        "name": "IMG-20220714-WA0038-02.jpeg"
+      },
+      {
+        "file": "/media/639079463e8c0e83509c9ccb_20221205_113911-01.jpeg",
+        "name": "20221205_113911-01.jpeg"
+      },
+      {
+        "file": "/media/64059a084b5726bba1a32f58_IMG-20211006-WA0031-01.jpeg",
+        "name": "IMG-20211006-WA0031-01.jpeg"
+      },
+      {
+        "file": "/media/64059a09bac13658eb9ad339_IMG-20220714-WA0038-02.jpeg",
+        "name": "IMG-20220714-WA0038-02.jpeg"
+      },
+      {
+        "file": "/media/64059a0900b83d5b333ec77e_20220517_120131-01.jpeg",
+        "name": "20220517_120131-01.jpeg"
+      }
+    ]
+  },
+  "commercial-projects": {
+    "headings": [
+      "Commercial Projects",
+      "Projects",
+      "Apartments",
+      "Projects",
+      "Villas"
+    ],
+    "image_count": 1,
+    "images": [
+      {
+        "type": "img",
+        "heading": "Villas",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": []
+  },
+  "contact": {
+    "headings": [
+      "Contact"
+    ],
+    "image_count": 1,
+    "images": [
+      {
+        "type": "img",
+        "heading": "Contact",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": []
+  },
+  "customer-enquiry-form": {
+    "headings": [
+      "Enquiry",
+      "Projects",
+      "Apartments",
+      "Projects",
+      "Villas"
+    ],
+    "image_count": 1,
+    "images": [
+      {
+        "type": "img",
+        "heading": "Villas",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": []
+  },
+  "designer-interiors": {
+    "headings": [
+      "Interior Design Studio",
+      "Projects",
+      "Apartments",
+      "Projects",
+      "Villas"
+    ],
+    "image_count": 12,
+    "images": [
+      {
+        "type": "img",
+        "heading": "Interior Design Studio",
+        "file": "/media/5ecfd9d1ecf1c5ad5fb40269_a7417d44-1f9f-4e7a-8cd5-14f6f23d2a84.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Interior Design Studio",
+        "file": "/media/5ecfd9d1ecf1c5b68ab40268_42b2929a-7d39-400d-b97a-c5d905187275.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Interior Design Studio",
+        "file": "/media/5ecfd9d1b314ba73c98c2e84_c1a7ab33-5dd0-4b95-ba91-bfdb22192f19.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Interior Design Studio",
+        "file": "/media/5ecfd9d125d602a773fb4bc8_cd4bb97b-f1f5-4045-ab42-2726722efd2c.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Interior Design Studio",
+        "file": "/media/5ecfd9d0ecf1c55a27b40265_2aa69512-9694-4ce7-b2e0-673f6d1f5195.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Interior Design Studio",
+        "file": "/media/5ecfd9db25d602452efb4bdc_cd093ad5-8389-4022-acc7-0df00358fdb9.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Interior Design Studio",
+        "file": "/media/5ecfd9db2da69e7b4cdef3fa_e34f34a9-2d12-45df-b55a-8a8f699168aa.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Interior Design Studio",
+        "file": "/media/5edfb1b6fb143f223aac670b_office-1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Interior Design Studio",
+        "file": "/media/5edfb1b6fb143fdefcac670a_office-2.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Interior Design Studio",
+        "file": "/media/5edfb1b5bf9a844a7d5761fe_office-3.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Interior Design Studio",
+        "file": "/media/5edfb1b586548dbb5d562a9f_office-4.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Villas",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": []
+  },
+  "events": {
+    "headings": [],
+    "image_count": 20,
+    "images": [
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc2444752d300fce8a07d_IMG_0816.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc23c4752d3b288e8a070_IMG_0815.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc2404752d353d6e8a073_IMG_0814.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc23cd01943e162bcf990_IMG_0813.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc23825d602ba7afab446_IMG_0808.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc22d2da69e00f3de0371_IMG_0809.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc22535aad510209b40e9_IMG_0797.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc225a80336e42b8354f8_IMG_0798.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc2283c78d17d3fecf78d_IMG_0803.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc2299540ca95f6f47fbb_IMG_0801.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc2277878258853abdea5_IMG_0800.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc2254752d31139e8a054_IMG_0799.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc2290e918eb6d9a0ee96_IMG_0807.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc22bb314ba3f4c8b79a9_IMG_0805.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc2290d06db7c07fb696b_IMG_0804.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc22464d3013835612b5a_IMG_0796.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc2238d34e74e4ce81c3e_IMG_0795.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc2243c78d10639ecf785_IMG_0793.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecfc22564d3010e5e612b5b_IMG_0792.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": [
+      {
+        "file": "/media/5ecfc2444752d300fce8a07d_IMG_0816.jpg",
+        "name": "IMG_0816.jpg"
+      },
+      {
+        "file": "/media/5ecfc23c4752d3b288e8a070_IMG_0815.jpg",
+        "name": "IMG_0815.jpg"
+      },
+      {
+        "file": "/media/5ecfc2404752d353d6e8a073_IMG_0814.jpg",
+        "name": "IMG_0814.jpg"
+      },
+      {
+        "file": "/media/5ecfc23cd01943e162bcf990_IMG_0813.jpg",
+        "name": "IMG_0813.jpg"
+      },
+      {
+        "file": "/media/5ecfc23825d602ba7afab446_IMG_0808.jpg",
+        "name": "IMG_0808.jpg"
+      },
+      {
+        "file": "/media/5ecfc22d2da69e00f3de0371_IMG_0809.jpg",
+        "name": "IMG_0809.jpg"
+      },
+      {
+        "file": "/media/5ecfc23825d602ba7afab446_IMG_0808.jpg",
+        "name": "IMG_0808.jpg"
+      },
+      {
+        "file": "/media/5ecfc225a80336e42b8354f8_IMG_0798.jpg",
+        "name": "IMG_0798.jpg"
+      },
+      {
+        "file": "/media/5ecfc2283c78d17d3fecf78d_IMG_0803.jpg",
+        "name": "IMG_0803.jpg"
+      },
+      {
+        "file": "/media/5ecfc2299540ca95f6f47fbb_IMG_0801.jpg",
+        "name": "IMG_0801.jpg"
+      },
+      {
+        "file": "/media/5ecfc2277878258853abdea5_IMG_0800.jpg",
+        "name": "IMG_0800.jpg"
+      },
+      {
+        "file": "/media/image-placeholder.svg",
+        "name": "image-placeholder.svg"
+      },
+      {
+        "file": "/media/5ecfc2254752d31139e8a054_IMG_0799.jpg",
+        "name": "IMG_0799.jpg"
+      },
+      {
+        "file": "/media/5ecfc2290e918eb6d9a0ee96_IMG_0807.jpg",
+        "name": "IMG_0807.jpg"
+      },
+      {
+        "file": "/media/5ecfc2277878258853abdea5_IMG_0800.jpg",
+        "name": "IMG_0800.jpg"
+      },
+      {
+        "file": "/media/5ecfc2290d06db7c07fb696b_IMG_0804.jpg",
+        "name": "IMG_0804.jpg"
+      },
+      {
+        "file": "/media/5ecfc22464d3013835612b5a_IMG_0796.jpg",
+        "name": "IMG_0796.jpg"
+      },
+      {
+        "file": "/media/5ecfc2238d34e74e4ce81c3e_IMG_0795.jpg",
+        "name": "IMG_0795.jpg"
+      },
+      {
+        "file": "/media/5ecfc2243c78d10639ecf785_IMG_0793.jpg",
+        "name": "IMG_0793.jpg"
+      },
+      {
+        "file": "/media/5ecfc22564d3010e5e612b5b_IMG_0792.jpg",
+        "name": "IMG_0792.jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "headings": [
+      "Videos",
+      "Gallery"
+    ],
+    "image_count": 9,
+    "images": [
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e3731fb95e3e306fab917_v4.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e3732cc4374aeb2e4d1d6_v2.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e3732da965823e6b60fc8_v1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e37314f6525bedbcb7a6f_v3.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e4bde14dbb0d3a3e44a4a_media-page-img1.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/placeholder.60f9b1840c.svg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e4bdefb95e3e306074986_media-page-img3.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e4bde0ee7f1a2613e7f18_media-page-img2.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": [
+      {
+        "file": "/media/849355311",
+        "name": ""
+      },
+      {
+        "file": "/media/897836621",
+        "name": ""
+      },
+      {
+        "file": "/media/897836661",
+        "name": ""
+      },
+      {
+        "file": "/media/897836589",
+        "name": ""
+      },
+      {
+        "file": "/media/897851122",
+        "name": ""
+      },
+      {
+        "file": "/media/897852607",
+        "name": ""
+      },
+      {
+        "file": "/media/897854053",
+        "name": ""
+      }
+    ]
+  },
+  "home": {
+    "headings": [
+      "Loading..",
+      "Villa Exotica",
+      "Villa Exotica",
+      "Villa Exotica",
+      "Villa Exotica",
+      "4BHK Villas at Nettoor, Kochi",
+      "Gallery",
+      "From where we stand",
+      "From where we stand",
+      "From where we stand",
+      "Latest Projects"
+    ],
+    "image_count": 17,
+    "images": [
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/67174b16f5d313176ca2a62c_v1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/67174b64edc2dcdc2a5ccb32_v2.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/67174b72819d1b9993e0f9bc_v3.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e3731fb95e3e306fab917_v4.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e3732cc4374aeb2e4d1d6_v2.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e3732da965823e6b60fc8_v1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e37314f6525bedbcb7a6f_v3.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Latest Projects",
+        "file": "/media/5ed768718f46fea7d6ae58a6_VB-Park.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Latest Projects",
+        "file": "/media/5ed344f2412d2be6e1b066db_VB-Earth-.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Latest Projects",
+        "file": "/media/5ed4c82b97a20a199893172d_VB-Royal-(2).jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Latest Projects",
+        "file": "/media/5ed4c678c6c97854ede6a22f_Vb-Hive-.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Latest Projects",
+        "file": "/media/5ed4c02210bcbaa2605e5e61_VB-Floora-(2).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Latest Projects",
+        "file": "/media/5ed4c6ecc6c97848e5e6a34e_VB-Mist-(1).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Latest Projects",
+        "file": "/media/628b44bad78d351133e18914_Aura-VB.webp",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Latest Projects",
+        "file": "/media/5ed4c1f18a3127c18377b1a2_Pavilliov-1-and-2.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Latest Projects",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Latest Projects",
+        "file": "/media/5ed635ce3b2aeb43fce8364f_kisspng-escobar-computer-icons-call-icon-5acc26732b4044.1986419615233286271772.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": [
+      {
+        "file": "/media/6700e22f7acad9de18652bf6_IMG-20241005-WA0001.avif",
+        "name": "IMG-20241005-WA0001.avif"
+      },
+      {
+        "file": "/media/6700e233f1eba982a6ab5374_IMG-20241005-WA0000.avif",
+        "name": "IMG-20241005-WA0000.avif"
+      },
+      {
+        "file": "/media/6700e22f774628cdac87092e_IMG-20241005-WA0005.avif",
+        "name": "IMG-20241005-WA0005.avif"
+      },
+      {
+        "file": "/media/6700e22f829e386645f5e7a0_CAL00148-2.avif",
+        "name": "CAL00148-2.avif"
+      },
+      {
+        "file": "/media/6700e0107acad9de186394ce_CAL00412-copyINT.avif",
+        "name": "CAL00412 copyINT.avif"
+      },
+      {
+        "file": "/media/6700e0109d42b20502a2fa2f_CAL00362INT.avif",
+        "name": "CAL00362INT.avif"
+      },
+      {
+        "file": "/media/6700e010e7f4edb9eb2d7d11_CAL00602INT.avif",
+        "name": "CAL00602INT.avif"
+      },
+      {
+        "file": "/media/6700e010b4f89b91b0cefa1c_CAL00594-copyINT.avif",
+        "name": "CAL00594 copyINT.avif"
+      },
+      {
+        "file": "/media/6700e01082b529a2e07dd9ed_CAL00539-copyINT.avif",
+        "name": "CAL00539 copyINT.avif"
+      },
+      {
+        "file": "/media/6703c5664a644880b51f6d4e_CAL00124-copy-2.jpg",
+        "name": "CAL00124 copy 2.jpg"
+      },
+      {
+        "file": "/media/1021989835",
+        "name": ""
+      },
+      {
+        "file": "/media/1021989890",
+        "name": ""
+      },
+      {
+        "file": "/media/1021989978",
+        "name": ""
+      },
+      {
+        "file": "/media/849355311",
+        "name": ""
+      },
+      {
+        "file": "/media/897836621",
+        "name": ""
+      },
+      {
+        "file": "/media/897836661",
+        "name": ""
+      },
+      {
+        "file": "/media/897836589",
+        "name": ""
+      }
+    ]
+  },
+  "journal": {
+    "headings": [
+      "JOURNAL",
+      "News",
+      "Projects",
+      "Apartments",
+      "Projects",
+      "Villas",
+      "Loading..."
+    ],
+    "image_count": 23,
+    "images": [
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed9d363fce8e0b615af0fff_IMG_0669-1080x714.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed9d83f075079d92c31012c_IMG_6315.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed0b67511a8b00af708e3cb_image2-1.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed9e12588d55a8f6307f096_SM4_7833-1024x682.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed9e125e93ebb40b1357f3d_Screen-Shot-2018-11-19-at-9.53.34-AM-768x633.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed0b674f1ff84ed124460e3_image1-2.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed0b69f52bc18314ef19a88_IMG_6320.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed9ea97fce8e0103baf6ca9_image2-(2).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed9ec73bca2fa5f4f861de6_Screenshot-2018-12-06-at-12.17.36-PM-1018x675.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed9e86be219c86687fe6a24_image6-(2).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed9edbf07c29f44e0dfc007_FB_IMG_1589317029557-01.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed9eed988d55a6430083247_Screenshot_20200513-135237_Instagram-01.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed0b69fc534bd60da3e8f34_IMG_6318.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed0b68e11a8b0224108e4f3_IMG_6316.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed9e61de219c873c2fe65e6_IMG_0813.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed9ed6b4bc6a5ae5a0dcbaa_FB_IMG_1589317067738-01-(1).jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed9eebf4bc6a5cc640dce10_image3-1080x1291.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "JOURNAL",
+        "file": "/media/5ed9ef72bca2fab0778627a6_FB_IMG_1589317038429-01-(1).jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "News",
+        "file": "/media/5eedf0280aad892c75de121c_Screenshot_20200620-145620_Instagram_2-01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "News",
+        "file": "/media/5eedf028e152b75fc30d8062_Screenshot_20200620-145547_Instagram_2-01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "News",
+        "file": "/media/5eedf02860847d027f81a96a_Screenshot_20200620-145616_Instagram_2-01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "News",
+        "file": "/media/5eedf026567eccff81842d61_Screenshot_20200620-145542_Instagram-01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Villas",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": []
+  },
+  "privacy-policy-page": {
+    "headings": [],
+    "image_count": 1,
+    "images": [
+      {
+        "type": "img",
+        "heading": "",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": []
+  },
+  "projects": {
+    "headings": [
+      "PROJECTS",
+      "Projects completed over the years"
+    ],
+    "image_count": 4,
+    "images": [
+      {
+        "type": "img",
+        "heading": "PROJECTS",
+        "file": "/media/63e228717a19719cf3ded149_1631799122953110001_attach_138510919241240030-01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "PROJECTS",
+        "file": "/media/5ed768718f46fea7d6ae58a6_VB-Park.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "PROJECTS",
+        "file": "/media/5ed0a7dc52bc18fb2bf163f8_BAVANS-VIEW-6.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Projects completed over the years",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": []
+  },
+  "sale-aura": {
+    "headings": [
+      "Aura by Bavasons",
+      "Ready to Occupy",
+      "Register Now",
+      "Flats in the",
+      "VB Aura",
+      "Nearest Landmarks",
+      "Contact Us"
+    ],
+    "image_count": 5,
+    "images": [
+      {
+        "type": "img",
+        "heading": "VB Aura",
+        "file": "/media/63031a0eb0d76c63ea43d314_png_20220801_204927_0000.webp",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "VB Aura",
+        "file": "/media/6303230df4c9140d3f803975_png_20220801_204927_0000.webp",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "VB Aura",
+        "file": "/media/628b44bad78d351133e18914_Aura-VB.webp",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Nearest Landmarks",
+        "file": "/media/630348908fc2b4737670368d_619c96c92095e32b2cdd307f_IMG-20211113-WA0011.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Contact Us",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": []
+  },
+  "thank-you": {
+    "headings": [
+      "Thank you for Expressing your Interest."
+    ],
+    "image_count": 1,
+    "images": [
+      {
+        "type": "img",
+        "heading": "Thank you for Expressing your Interest.",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": []
+  },
+  "vb-earth": {
+    "headings": [
+      "VB EARTH",
+      "Specifications",
+      "Location :",
+      "Nearest Landmarks :",
+      "Floor Plans :"
+    ],
+    "image_count": 16,
+    "images": [
+      {
+        "type": "img",
+        "heading": "VB EARTH",
+        "file": "/media/5f603102868b711acfc25fc3_vb-earch-cover.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "VB EARTH",
+        "file": "/media/5ed1fa386103a331b8e54819_vb-earth-5-(1).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "VB EARTH",
+        "file": "/media/5ed1fa57ec5df2c24df1b84c_vb-earth-9.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "VB EARTH",
+        "file": "/media/5ed1fa573b799764515062f8_vb-earth-7.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "VB EARTH",
+        "file": "/media/5ed1fa386468192ea2116ada_vb-earth-1-(1).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "VB EARTH",
+        "file": "/media/5f59d5ea93b6de0104152709_IMG_20200909_205218_918-(1).jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "VB EARTH",
+        "file": "/media/5ee49d596fd72825aefeafc2_kitchen.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "VB EARTH",
+        "file": "/media/5ed1fa1810bcba5d1751b0e3_20191001_155926-01-1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "VB EARTH",
+        "file": "/media/5ee49d5af3efc171cce64c0b_wash.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "VB EARTH",
+        "file": "/media/5ee49d59e1514f2f6b900b1f_formal.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "VB EARTH",
+        "file": "/media/5ee49d585819c43a3ee71fd0_living.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "VB EARTH",
+        "file": "/media/5ee49d5876303d5755e5a53c_centre.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Floor Plans :",
+        "file": "/media/5ed1fa18ddb223ee2bae1e37_be32b6b4-297f-48a0-b95b-9e9e3c160dec.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Floor Plans :",
+        "file": "/media/5ed20b2b6103a30335e58beb_86e484cf-5723-43e9-a821-839f3cc4a232.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Floor Plans :",
+        "file": "/media/5ed1fa1710bcba3d8851b0e2_80b7e4c2-2b26-4862-b164-14aaa319a695.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Floor Plans :",
+        "file": "/media/5ed1fa176103a3788ae547f8_75bf94c9-6ce9-4ae0-8345-6b9aa76e9b82.jpg",
+        "alt": ""
+      }
+    ],
+    "lightbox": []
+  },
+  "villa-exotica": {
+    "headings": [
+      "Luxe Living",
+      "Luxe Living",
+      "Gallery",
+      "Interior",
+      "Exterior",
+      "The Location",
+      "Peacefully away",
+      "Luxe Living"
+    ],
+    "image_count": 16,
+    "images": [
+      {
+        "type": "img",
+        "heading": "Luxe Living",
+        "file": "/media/63e0bbece4e25f519e1c73f2_bv2.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/67174b16f5d313176ca2a62c_v1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/67174b64edc2dcdc2a5ccb32_v2.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/67174b72819d1b9993e0f9bc_v3.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e3731fb95e3e306fab917_v4.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e3732cc4374aeb2e4d1d6_v2.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e3732da965823e6b60fc8_v1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/659e37314f6525bedbcb7a6f_v3.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/63e0b2158b609648dd5186e7_Bava--1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Gallery",
+        "file": "/media/63e0bbebdd10666810440f31_bav-1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Interior",
+        "file": "/media/670cbcce4b996df1d068d773_villa-exotica.svg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Exterior",
+        "file": "/media/63eb638f1469060c819c457b_1080-EXT.webp",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Exterior",
+        "file": "/media/63e206c4da4d5e52e7e05f5a_View-Spec.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Peacefully away",
+        "file": "/media/63e0c165835df40f9351236f_Vlla-Exotica-Map-01.svg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Peacefully away",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Luxe Living",
+        "file": "/media/6703c482fee6f064f7bc5689_bg1.jpg",
+        "alt": ""
+      }
+    ],
+    "lightbox": [
+      {
+        "file": "/media/1021989835",
+        "name": ""
+      },
+      {
+        "file": "/media/1021989890",
+        "name": ""
+      },
+      {
+        "file": "/media/1021989978",
+        "name": ""
+      },
+      {
+        "file": "/media/849355311",
+        "name": ""
+      },
+      {
+        "file": "/media/897836621",
+        "name": ""
+      },
+      {
+        "file": "/media/897836661",
+        "name": ""
+      },
+      {
+        "file": "/media/897836589",
+        "name": ""
+      },
+      {
+        "file": "/media/6700e0105310b606b61dcd4d_CAL00418INT.jpg",
+        "name": "CAL00418INT.jpg"
+      },
+      {
+        "file": "/media/6700e0107acad9de186394ce_CAL00412-copyINT.jpg",
+        "name": "CAL00412 copyINT.jpg"
+      },
+      {
+        "file": "/media/6700e0107acad9de186394c9_CAL00432INT.jpg",
+        "name": "CAL00432INT.jpg"
+      },
+      {
+        "file": "/media/6700e010a24e056407ef16b4_CAL00427INT.jpg",
+        "name": "CAL00427INT.jpg"
+      },
+      {
+        "file": "/media/6700e01082b529a2e07dd9ed_CAL00539-copyINT.jpg",
+        "name": "CAL00539 copyINT.jpg"
+      },
+      {
+        "file": "/media/6700e0109d42b20502a2fa2f_CAL00362INT.jpg",
+        "name": "CAL00362INT.jpg"
+      },
+      {
+        "file": "/media/6700e010e7f4edb9eb2d7d11_CAL00602INT.jpg",
+        "name": "CAL00602INT.jpg"
+      },
+      {
+        "file": "/media/6700e0109aa8355d0c8e964b_CAL00408INT.jpg",
+        "name": "CAL00408INT.jpg"
+      },
+      {
+        "file": "/media/6700e01082b529a2e07dd9b1_CAL00600INT.jpg",
+        "name": "CAL00600INT.jpg"
+      },
+      {
+        "file": "/media/6700e010b4f89b91b0cefa1c_CAL00594-copyINT.jpg",
+        "name": "CAL00594 copyINT.jpg"
+      },
+      {
+        "file": "/media/63e227144ee37edd776c87db_cinema-1st-view.jpg",
+        "name": "cinema 1st view.jpg"
+      },
+      {
+        "file": "/media/63e2271f48266862b0a274fd_bed-2-wardrobe.jpg",
+        "name": "bed-2-wardrobe.jpg"
+      },
+      {
+        "file": "/media/63e2272b4be6f605fc1dd76a_Living2_Interactive-LightMix-copy.jpg",
+        "name": "Living2_Interactive LightMix copy.jpg"
+      },
+      {
+        "file": "/media/63e2272b9765d31c100bc67d_bed-2.jpg",
+        "name": "bed-2.jpg"
+      },
+      {
+        "file": "/media/63e2272bfc264b58e3b45c37_Upper-Living.jpg",
+        "name": "Upper Living.jpg"
+      },
+      {
+        "file": "/media/63e2272be07cdbe5e9e0270a_Bed-view-02.jpg",
+        "name": "Bed view 02.jpg"
+      },
+      {
+        "file": "/media/63e2272b4be6f644cb1dd76b_Kitchen-view2.jpg",
+        "name": "Kitchen view2.jpg"
+      },
+      {
+        "file": "/media/63e2272b2b23e238c1d08669_bed-3-wardrobe.jpg",
+        "name": "bed-3-wardrobe.jpg"
+      },
+      {
+        "file": "/media/63e2272bee3b20005b0e3117_Living1_Interactive-LightMix-copy.jpg",
+        "name": "Living1_Interactive LightMix copy.jpg"
+      },
+      {
+        "file": "/media/63e2272cf3d2d09a0db5ad99_bed-3.jpg",
+        "name": "bed-3.jpg"
+      },
+      {
+        "file": "/media/63e2272ca45ceb2e1f176f44_bed-1.jpg",
+        "name": "bed-1.jpg"
+      },
+      {
+        "file": "/media/63e2272c2b23e27cf2d0866a_bed--1-wardrobe.jpg",
+        "name": "bed--1-wardrobe.jpg"
+      },
+      {
+        "file": "/media/6703c482fee6f064f7bc5689_bg1.jpg",
+        "name": "bg1.jpg"
+      },
+      {
+        "file": "/media/6700e25234f5bf31b2e3b698_CAL00124-copy-2.jpg",
+        "name": "CAL00124 copy 2.jpg"
+      },
+      {
+        "file": "/media/6700e233f1eba982a6ab5374_IMG-20241005-WA0000.jpg",
+        "name": "IMG-20241005-WA0000.jpg"
+      },
+      {
+        "file": "/media/6700e22f829e386645f5e774_CAL00526-copy.jpg",
+        "name": "CAL00526 copy.jpg"
+      },
+      {
+        "file": "/media/6700e22f9c92aa80cd2b3200_CAL00156-copy.jpg",
+        "name": "CAL00156 copy.jpg"
+      },
+      {
+        "file": "/media/6700e22f774628cdac87092e_IMG-20241005-WA0005.jpg",
+        "name": "IMG-20241005-WA0005.jpg"
+      },
+      {
+        "file": "/media/6700e22f774628cdac870936_CAL00159-copy-2.jpg",
+        "name": "CAL00159 copy 2.jpg"
+      },
+      {
+        "file": "/media/6700e22f00dd1f14f7d30aa3_CAL00276.jpg",
+        "name": "CAL00276.jpg"
+      },
+      {
+        "file": "/media/6700e22f82b529a2e07fbb86_IMG-20241005-WA0004.jpg",
+        "name": "IMG-20241005-WA0004.jpg"
+      },
+      {
+        "file": "/media/63eb237a14690604c898054e_IMG-20220315-WA0099-gigapixel-low_res-scale-4_00x.webp",
+        "name": "IMG-20220315-WA0099-gigapixel-low_res-scale-4_00x.webp"
+      },
+      {
+        "file": "/media/63eb237b49ff87862b434829_IMG-20220324-WA0023(1)-gigapixel-low_res-scale-4_00x.webp",
+        "name": "IMG-20220324-WA0023(1)-gigapixel-low_res-scale-4_00x.webp"
+      }
+    ]
+  },
+  "villas": {
+    "headings": [
+      "VILLAS",
+      "Villa Exotica",
+      "Projects",
+      "Apartments",
+      "Projects",
+      "Villas"
+    ],
+    "image_count": 6,
+    "images": [
+      {
+        "type": "img",
+        "heading": "Villa Exotica",
+        "file": "/media/63e228717a19719cf3ded149_1631799122953110001_attach_138510919241240030-01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Villa Exotica",
+        "file": "/media/5ed1ec32a90a9c5a4a1648c3_IMG_0220-1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Villa Exotica",
+        "file": "/media/5ed1ec31ddb2236dacadb5de_dad418d5-9fbc-4299-a07f-575163189d15-1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Villa Exotica",
+        "file": "/media/5ed1ec32ddb2238b0cadb5df_IMG_6287-1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Villa Exotica",
+        "file": "/media/5ed1ec31a553da39f5dd55fc_dcd982f4-264f-4d84-8b65-34ec84b5e06b.jpg",
+        "alt": ""
+      },
+      {
+        "type": "img",
+        "heading": "Villas",
+        "file": "/media/5ecf9b549540caf8e0f35930_BAI.png",
+        "alt": ""
+      }
+    ],
+    "lightbox": []
+  }
+}
