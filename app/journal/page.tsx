@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { PageHero } from "@/components/PageHero";
-import { ShotGrid } from "@/components/ShotGrid";
+import { Pic, SIZES } from "@/components/Pic";
 import { journal } from "@/lib/content";
 
 export const metadata: Metadata = { title: "Journal" };
@@ -8,14 +8,16 @@ export const metadata: Metadata = { title: "Journal" };
 export default function JournalPage() {
   return (
     <article>
-      <PageHero
-        kicker="Journal"
-        title="The room beyond the site."
-        lede="Directors with presidents, governors, and the people who have sat with this family for years."
-        image={{ src: journal[0].image, alt: journal[0].title, caption: journal[0].text }}
-      />
-      <section className="section tight wrap">
-        <ShotGrid shots={journal.slice(1).map((entry) => ({ src: entry.image, alt: entry.title, label: entry.title, note: entry.text }))} />
+      <PageHero title="JOURNAL" note="Directors with presidents, governors, and the people who have sat with this family for years." />
+      <section className="section">
+        <div className="wrap shot-grid">
+          {journal.map((entry, i) => (
+            <figure key={entry.title} className={i % 7 === 0 ? "wide" : undefined} style={{ margin: 0 }} data-rise>
+              <Pic src={entry.image} alt={entry.title} sizes={SIZES.third} priority={i === 0} />
+              <figcaption><b>{entry.title}</b><span>{entry.text}</span></figcaption>
+            </figure>
+          ))}
+        </div>
       </section>
     </article>
   );

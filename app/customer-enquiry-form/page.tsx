@@ -2,17 +2,13 @@ import type { Metadata } from "next";
 import { EnquiryForm } from "@/components/EnquiryForm";
 import { PageHero } from "@/components/PageHero";
 
-export const metadata: Metadata = { title: "Customer profile" };
+export const metadata: Metadata = { title: "Customer Enquiry Form" };
 
 export default function EnquiryPage() {
   return (
     <article>
-      <PageHero
-        kicker="Customer profile"
-        title="Tell us who the home is for."
-        lede="Fill this in if a project is already on your mind. We are glad to help."
-      />
-      <section className="section tight narrow">
+      <PageHero title="Enquiry" note="Fill in the form below if you are interested in any of our projects, we are always happy to help." />
+      <section className="section narrow">
         <EnquiryForm
           fields={[
             { name: "name", label: "Name" },

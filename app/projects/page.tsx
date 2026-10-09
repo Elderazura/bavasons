@@ -1,56 +1,43 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { PageHero } from "@/components/PageHero";
-import { ProjectBook } from "@/components/ProjectBook";
-import { featured, src } from "@/lib/content";
 import { Pic, SIZES } from "@/components/Pic";
+import { completed, media, projectStills } from "@/lib/content";
 
 export const metadata: Metadata = { title: "Projects" };
 
-const [lead, ...rest] = featured.slice(0, 3);
+const categories = [
+  { title: "Villas", href: "/villas", image: projectStills[0].src },
+  { title: "Apartments", href: "/apartments", image: projectStills[1].src },
+  { title: "Commercial Spaces", href: "/commercial-projects", image: media.office },
+];
 
 export default function ProjectsPage() {
   return (
     <article>
-      <PageHero
-        kicker="Projects"
-        title="Live sites, and the finished book."
-        lede="Three projects selling now, then every building the house has handed over since the 1980s."
-        aside={
-          <div className="actions">
-            <a className="btn" href="#finished">Finished work</a>
-            <Link className="btn ghost" href="/commercial-projects">Commercial</Link>
-          </div>
-        }
-      />
+      <PageHero title="PROJECTS" />
 
-      <section className="wrap" id="live" aria-label="Live sites">
-        <div className="live-grid">
-          <Link href={lead.href} className="tile lead" data-rise>
-            <Pic alt={lead.name} src={lead.image} sizes="(max-width: 900px) 100vw, 66vw" priority />
-            <div className="tile-copy">
-              <span className="num">Now selling · {lead.place}</span>
-              <h3>{lead.name}</h3>
-              <p>{lead.note}</p>
-              <ul className="facts"><li className="hot">Ready to occupy</li><li>4 BHK</li><li>Furnished</li></ul>
-            </div>
-          </Link>
-          <div className="live-side">
-            {rest.map((item) => (
-              <Link key={item.name} href={item.href} className="tile" data-rise>
-                <Pic alt={item.name} src={item.image} sizes={SIZES.third} />
-                <div className="tile-copy">
-                  <span className="num">{item.place}</span>
-                  <h3>{item.name}</h3>
-                  <p>{item.note}</p>
-                </div>
-              </Link>
+      <section className="section">
+        <div className="wrap cat-grid">
+          {categories.map((cat) => (
+            <Link key={cat.title} href={cat.href} data-rise>
+              <Pic src={cat.image} alt={cat.title} sizes={SIZES.third} />
+              <span className="cat-link">{cat.title}</span>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      <section className="section tight">
+        <div className="wrap">
+          <h2 className="sec-title">Projects completed over the years</h2>
+          <div className="name-grid">
+            {completed.map((item) => (
+              <span key={item.name}>{item.name}, {item.place}</span>
             ))}
           </div>
         </div>
       </section>
-
-      <ProjectBook />
     </article>
   );
 }

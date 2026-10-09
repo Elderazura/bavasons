@@ -1,38 +1,36 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { PageHero } from "@/components/PageHero";
-import { ShotGrid } from "@/components/ShotGrid";
+import { Pic, SIZES } from "@/components/Pic";
 import { commercialClients, media } from "@/lib/content";
 
-export const metadata: Metadata = { title: "Commercial" };
+export const metadata: Metadata = { title: "Commercial Projects" };
+
+const shots = [
+  { src: media.office, alt: "Bavasons commercial interior" },
+  { src: media.office2, alt: "Bavasons commercial interior" },
+  { src: media.office11, alt: "Bavasons commercial interior" },
+  { src: media.office12, alt: "Bavasons commercial interior" },
+];
 
 export default function CommercialPage() {
   return (
     <article>
-      <PageHero
-        kicker="Commercial"
-        title="Rooms the city already works in."
-        lede="Commercial spaces for sale and rent across Kochi, and a short list of the clients already inside Bavasons buildings."
-        aside={<div className="actions"><Link className="btn" href="/contact">Ask about a space</Link></div>}
-        image={{ src: media.office, alt: "Bavasons commercial interior" }}
-      />
-      <section className="section tight wrap">
-        <ShotGrid
-          plain
-          shots={[
-            { src: media.office2, alt: "Office 2" },
-            { src: "/media/5edfb1b5bf9a844a7d5761fe_office-3.jpg", alt: "Office 3" },
-            { src: "/media/5edfb1b586548dbb5d562a9f_office-4.jpg", alt: "Office 4" },
-          ]}
-        />
+      <PageHero title="Commercial Projects" note="Commercial spaces available for sale and rent in various parts of the city." />
+
+      <section className="section">
+        <div className="wrap shot-grid">
+          {shots.map((shot, i) => (
+            <figure key={shot.src} className={i === 0 ? "wide" : undefined} style={{ margin: 0 }} data-rise>
+              <Pic src={shot.src} alt={shot.alt} sizes={SIZES.third} priority={i === 0} />
+            </figure>
+          ))}
+        </div>
       </section>
-      <section className="section band">
-        <div className="wrap split">
-          <div>
-            <p className="kicker">Clients</p>
-            <h2>Already inside.</h2>
-          </div>
-          <ul className="client-list">
+
+      <section className="section band-light">
+        <div className="wrap">
+          <h2 className="sec-title">Existing Commercial Clients</h2>
+          <ul className="spec-list" style={{ maxWidth: 760, margin: "0 auto" }}>
             {commercialClients.map((client) => (
               <li key={client}>{client}</li>
             ))}

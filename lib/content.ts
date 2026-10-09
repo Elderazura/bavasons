@@ -12,10 +12,13 @@ export const company = {
 };
 
 export const nav = [
-  { href: "/about-us", label: "About" },
-  { href: "/projects", label: "Projects" },
-  { href: "/villas", label: "Villas" },
+  { href: "/", label: "Home" },
+  { href: "/about-us", label: "About Bavasons" },
   { href: "/journal", label: "Journal" },
+  { href: "/projects", label: "Projects" },
+  { href: "/customer-enquiry-form", label: "Customer Profile" },
+  { href: "/events", label: "Events" },
+  { href: "/designer-interiors", label: "Design Studio" },
   { href: "/gallery", label: "Gallery" },
   { href: "/contact", label: "Contact" },
 ];
@@ -45,7 +48,73 @@ export const media = {
   exterior: "/media/63eb638f1469060c819c457b_1080-EXT.webp",
   exoticaSpec: "/media/63e206c4da4d5e52e7e05f5a_View-Spec.jpg",
   exoticaMap: "/media/63e0c165835df40f9351236f_Vlla-Exotica-Map-01.svg",
+  bai: "/media/5ecf9b549540caf8e0f35930_BAI.png",
+  iconApartments: "/media/5ed1d9b5646819bb7310b446_architecture-firm-04.png",
+  iconVillas: "/media/5ed1d9b54b317b740772b14d_architecture-firm-06.png",
+  iconCommercial: "/media/5ed1d9b5a553da04f8dcfd36_architecture-firm-02.png",
+  landing: "/media/63e0a35c4fd49b49a4a9b824_Lqnding-bavasons.jpg",
+  bavasonsAi: "/media/63030d3242378166e6bf88c1_Bavasons-ai.jpg",
+  exoticaWide: "/media/63e22806fc264b4da0b46eae_1631799122953110001_attach_138510919241240020-01-2.jpg",
+  exoticaCard: "/media/63eb2b964e419e631ca57769_1631799122953110001_attach_138510919241240020-01.jpeg.webp",
+  villaEx: "/media/63e62ab5b0b2b28c9a580ef9_villa-ex.webp",
+  studioHero: "/media/5ecfd9d15bf71146cd746e15_407d5ca5-5534-4f05-a523-f2a8ca6238a2.jpg",
+  office11: "/media/5eef4c5fd664229fbc4ceced_office11.jpg",
+  office12: "/media/5eef4c5ffb06791e8409f946_office12.jpg",
+  exoticaPlanWide: "/media/63e34e76156dabf0f5642ada_Untitled-9-14.webp",
 };
+
+/** Background videos from the original site, with their poster frames. */
+export const video = {
+  heroDesktop: "/media/hero-desktop.mp4",
+  heroDesktopPoster: "/media/hero-desktop-poster.jpg",
+  heroMobile: "/media/hero-mobile.mp4",
+  heroMobilePoster: "/media/hero-mobile-poster.jpg",
+  exoticaDesktop: "/media/exotica-desktop.mp4",
+  exoticaDesktopPoster: "/media/exotica-desktop-poster.jpg",
+  exoticaMobile: "/media/exotica-mobile.mp4",
+  exoticaMobilePoster: "/media/exotica-mobile-poster.jpg",
+};
+
+/** The Villa Exotica walkthrough films, exactly as the original gallery linked them. */
+export const filmGallery = [
+  { src: "/media/67174b16f5d313176ca2a62c_v1.jpg", alt: "Villa Exotica walkthrough", href: "https://vimeo.com/1021989835" },
+  { src: "/media/67174b64edc2dcdc2a5ccb32_v2.jpg", alt: "Villa Exotica staircase", href: "https://vimeo.com/1021989890" },
+  { src: "/media/67174b72819d1b9993e0f9bc_v3.jpg", alt: "Villa Exotica courtyard", href: "https://vimeo.com/1021989978" },
+  { src: "/media/659e3731fb95e3e306fab917_v4.jpg", alt: "Villa Exotica grounds", href: "https://vimeo.com/849355311" },
+  { src: "/media/659e3732cc4374aeb2e4d1d6_v2.jpg", alt: "Villa Exotica elevation", href: "https://vimeo.com/897836621" },
+  { src: "/media/659e3732da965823e6b60fc8_v1.jpg", alt: "Villa Exotica facade", href: "https://vimeo.com/897836661" },
+  { src: "/media/659e37314f6525bedbcb7a6f_v3.jpg", alt: "Villa Exotica exterior", href: "https://vimeo.com/897836589" },
+];
+
+/** The three office films from the About and Gallery pages. */
+export const houseFilms = [
+  { src: "/media/659e4bde14dbb0d3a3e44a4a_media-page-img1.jpeg", alt: "Onam celebration at the Bavasons office", href: "https://vimeo.com/897851122", title: "Onam 23", note: "A glimpse of the Onam celebration at the Bavasons Homes office." },
+  { src: "/media/659e4bdefb95e3e306074986_media-page-img3.jpeg", alt: "The Bavasons team", href: "https://vimeo.com/897852607", title: "Faces of Dedication", note: "Immerse yourself in the smiles and camaraderie of our team." },
+  { src: "/media/659e4bde0ee7f1a2613e7f18_media-page-img2.jpeg", alt: "Workers on a Bavasons site", href: "https://vimeo.com/897854053", title: "Meet Our Happy Workers", note: "Passionate and skilled, our workers are the backbone of Bavasons." },
+];
+
+/** The eight projects the original home page listed under "Latest Projects". */
+export const latestProjects = [
+  { name: "VB Park", image: "/media/5ed768718f46fea7d6ae58a6_VB-Park.jpeg", href: "/apartments" },
+  { name: "VB Earth", image: "/media/5ed343dd412d2b7743b05f31_VB-Earth-.jpg", href: "/vb-earth" },
+  { name: "VB Royal", image: "/media/5ed4c82bec5df2ac44ff0084_VB-Royal-(1).jpg", href: "/apartments" },
+  { name: "VB Hive", image: "/media/5ed4c6787eda2a2025d2ff7e_VB-Hive.jpg", href: "/apartments" },
+  { name: "VB Floora", image: "/media/5ed4c020a0977f4d1a4eee13_VB-Floora-(1).jpg", href: "/apartments" },
+  { name: "VB Mist", image: "/media/5ed4c6ec8a3127825877cbaa_VB-Mist-(2).jpg", href: "/apartments" },
+  { name: "VB Aura", image: "/media/628b44bad78d351133e18914_Aura-VB.webp", href: "/aura" },
+  { name: "VB Pavilion 1 & 2", image: "/media/5ed4c1f18a3127c18377b1a2_Pavilliov-1-and-2.jpg", href: "/apartments" },
+];
+
+/** The "From where we stand" slider on the home page. */
+export const standSlides = [
+  { src: "/media/5edfb1b586548dbb5d562a9f_office-4.jpg", alt: "Bavasons office" },
+  { src: "/media/5eef4c5ffb06791e8409f946_office12.jpg", alt: "Bavasons office" },
+  { src: "/media/5eef4c5fd664229fbc4ceced_office11.jpg", alt: "Bavasons office" },
+];
+
+/** The company blurb that closes every page of the original site. */
+export const companyBlurb =
+  "Our Company's strongest personality traits are commitment and client relationship. In a Metro city like Kochi where trusted builders and affordable homes are in demand, Bavasons plays a vital role by delivering Simple, Elegant and Value based homes at a reasonable price. With a strong financial backup along with a group of experienced employees we have kept our commitments and performed well even during Economic Recession.";
 
 export const exoticaExterior = [
   { src: "/media/6703c482fee6f064f7bc5689_bg1.jpg", alt: "Villa Exotica entrance gate", label: "The gate" },
@@ -196,94 +265,95 @@ export const featured = [
 ];
 
 export const commercialClients = [
-  "Green Trends, Chennai",
-  "Faye Store, Bangalore",
-  "I-Net Infotech, Kochi",
-  "Varna Offset Printers, Kochi",
-  "Hibi Eden, Member of Parliament",
-  "Compdata, Kochi",
-  "Ad Khalid Associates, Kochi",
+  "GREEN TRENDS - Chennai",
+  "FAYE STORE - Bangalore",
+  "I-NET INFOTECH - Kochi",
+  "VARNA OFFSET PRINTERS - Kochi",
+  "HIBI EDEN - Member of Parliament",
+  "COMPDATA - Kochi",
+  "Ad KHALID ASSOCIATES - Kochi",
 ];
 
 export const journal = [
   {
-    title: "With the President of India",
-    text: "Directors with the first citizen of India, Honourable President Sri Pranab Mukherjee, at Rashtrapati Bhavan, 2015.",
+    title: "Directors with the President of India",
+    text: "Directors With 1st Citizen of India, Honourable President Sri Pranab Mukherjee at Rashtrapati Bhavan 2015.",
     image: "/media/5ed9d363fce8e0b615af0fff_IMG_0669-1080x714.jpg",
   },
   {
-    title: "Iftar at Rashtrapati Bhavan",
-    text: "Iftar with President Shri Pranab Mukherjee and Vice President Shri Hamid Ansari, 2017.",
+    title: "Ifthar at Rashtrapati Bhavan",
+    text: "Ifthar with the President of India Shri Pranab Mukherjee and Vice President of India Shri Hamid Ansari at Rashtrapati Bhavan 2017.",
     image: "/media/5ed9d83f075079d92c31012c_IMG_6315.jpg",
   },
   {
-    title: "With the Governor",
+    title: "Other Diplomats",
     text: "Director with the Governor.",
     image: "/media/5ed0b67511a8b00af708e3cb_image2-1.jpeg",
   },
   {
     title: "Subramanian Swamy",
-    text: "Director Mr Fazal Ali with Member of Parliament Subramanian Swamy, Rajya Sabha.",
+    text: "Our Director Mr Fazal Ali with Member of Parliment Subramanian Swamy - Rajya Sabha.",
     image: "/media/5ed9e12588d55a8f6307f096_SM4_7833-1024x682.jpg",
   },
   {
     title: "George Mathew, IFS",
-    text: "Director with George Mathew, IFS.",
+    text: "Director with George Mathew - IFS.",
     image: "/media/5ed0b674f1ff84ed124460e3_image1-2.jpeg",
   },
   {
     title: "Sitaram Yechury",
-    text: "With Secretary General of the CPI, Sitaram Yechury.",
+    text: "Secretary General of CPI - Sitaram Yechury.",
     image: "/media/5ed0b69f52bc18314ef19a88_IMG_6320.jpg",
   },
   {
     title: "Housing & Mines, Maharashtra",
-    text: "With the Minister of Housing & Mines, Maharashtra.",
+    text: "With Minister of Housing & Mines - Maharashtra.",
     image: "/media/5ed9ea97fce8e0103baf6ca9_image2-(2).jpg",
   },
   {
-    title: "Silver jubilee",
-    text: "Silver jubilee of Bavasons Constructions.",
+    title: "Silver Jubilee",
+    text: "Silver Jubilee Bavasons constructions.",
     image: "/media/5ed9ec73bca2fa5f4f861de6_Screenshot-2018-12-06-at-12.17.36-PM-1018x675.jpg",
   },
   {
     title: "Venkaiah Naidu",
-    text: "With the 13th Vice President of India, Venkaiah Naidu, and Telangana Chief Minister Chandrashekar Rao.",
+    text: "With 13th Vice President of India - Venkaiah Naidu & Telangana Chief Minister Chandrashekar Rao.",
     image: "/media/5ed9edbf07c29f44e0dfc007_FB_IMG_1589317029557-01.jpeg",
   },
 ];
 
 export const earthSpecs = [
   "Earthquake resistant RCC framed structure",
-  "Flooring — vitrified tiles from Somany or equal",
-  "Anti-skid ceramic floor tiles in toilets and balconies",
-  "Bathroom — glazed ceramic wall tile up to 7 ft, Somany or equal",
-  "Internal walls — two coats of acrylic emulsion on putty",
-  "Ceiling — acrylic emulsion on putty finish",
-  "False ceiling at the lobby",
+  "Flooring – Vitrified Tiles from Somany or equal",
+  "Anti Skid ceramic floor tiles in toilets & Balcony",
+  "Bathroom - glazed ceramic wall tile upto 7ft from Somany or equal",
+  "Internal walls – 2 coats of acrylic emulsion on putty finish",
+  "Ceiling – Acrylic emulsion on putty finish",
+  "False ceiling at Lobby with matching colour",
   "Modular switches from Legrand",
-  "V-Guard wiring",
-  "Granite kitchen countertop",
-  "Wall-mounted EWC and wash basin from Cera or equal",
+  "V Guard wiring",
+  "Granite kitchen counter top",
+  "Wall Mounted E W C, & Wash basin from Cera or equal",
   "Hardwood door frames",
-  "Front door: compressed doors with melamine finish",
-  "Moulded panel doors for bedrooms",
-  "Powder-coated aluminium windows with MS grills",
-  "Fibre doors for toilets",
+  "Front door – Compressed doors with Melamine finish or equal",
+  "Molded panel doors for bedrooms",
+  "Powder coated aluminum windows with ms grills",
+  "Acrylic emulsion painted wall & ceiling",
+  "Fiber doors for toilets",
   "Covered car park",
   "Potable groundwater",
-  "Premium texture painting on the front elevation",
-  "Covered rooftop party area",
+  "Premium texture Painting at the front elevation for aesthetic looks",
+  "Covered roof top for Party Area",
 ];
 
 export const earthLandmarks = [
-  ["Airport-Seaport Road", "2 km"],
-  ["Nearest bus stop", "150 m"],
-  ["CSEZ", "2 km"],
-  ["NH Bypass", "2.5 km"],
-  ["Civil Station / Collectorate", "3 km"],
-  ["Sunrise Hospital", "4 km"],
-  ["Infopark / Rajagiri", "5 km"],
+  ["Airport Seaport Road", "2 Kms"],
+  ["Nearest bus stop", "150 mtrs"],
+  ["CSEZ", "2 Kms"],
+  ["NH Byepass", "2.5 Kms"],
+  ["Civil station / Collectorate Jn", "3 Kms"],
+  ["Sunrise Hospital", "4 Kms"],
+  ["Infopark / Rajagiri", "5 Kms"],
 ];
 
 export const auraLandmarks = [

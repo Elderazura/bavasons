@@ -1,22 +1,31 @@
 import type { Metadata } from "next";
-import { Familjen_Grotesk, Newsreader } from "next/font/google";
+import { Montserrat, Castoro, Roboto } from "next/font/google";
 import { Footer } from "@/components/Footer";
 import { Nav } from "@/components/Nav";
 import { SiteMotion } from "@/components/SiteMotion";
 import { company, media } from "@/lib/content";
 import "./globals.css";
 
-const sans = Familjen_Grotesk({
+const sans = Montserrat({
   subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"],
   variable: "--font-sans",
   display: "swap",
 });
 
-const serif = Newsreader({
+const display = Castoro({
   subsets: ["latin"],
-  variable: "--font-serif",
-  display: "swap",
+  weight: ["400"],
   style: ["normal", "italic"],
+  variable: "--font-display",
+  display: "swap",
+});
+
+const text = Roboto({
+  subsets: ["latin"],
+  weight: ["300", "400", "500"],
+  variable: "--font-text",
+  display: "swap",
 });
 
 export const metadata: Metadata = {
@@ -30,7 +39,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${sans.variable} ${serif.variable}`}>
+    <html lang="en" className={`${sans.variable} ${display.variable} ${text.variable}`}>
       <body>
         <Nav />
         <SiteMotion />

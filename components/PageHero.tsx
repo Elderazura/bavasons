@@ -1,35 +1,24 @@
 import type { ReactNode } from "react";
-import { src } from "@/lib/content";
-import { Pic, SIZES } from "@/components/Pic";
 
-type Props = {
-  kicker: string;
+/** The original page masthead: a right-aligned title with a short rule beneath it. */
+export function PageHero({
+  kicker,
+  title,
+  note,
+  children,
+}: {
+  kicker?: string;
   title: ReactNode;
-  lede?: ReactNode;
-  aside?: ReactNode;
-  image?: { src: string; alt: string; caption?: string };
-  tall?: boolean;
-};
-
-export function PageHero({ kicker, title, lede, aside, image, tall }: Props) {
+  note?: ReactNode;
+  children?: ReactNode;
+}) {
   return (
-    <>
-      <section className="masthead">
-        <div className="wrap masthead-grid">
-          <div>
-            <p className="kicker">{kicker}</p>
-            <h1>{title}</h1>
-            {lede ? <p className="lede">{lede}</p> : null}
-          </div>
-          {aside ? <div className="masthead-aside">{aside}</div> : null}
-        </div>
-      </section>
-      {image ? (
-        <figure className={`plate wrap${tall ? " tall" : ""}`}>
-          <Pic alt={image.alt} src={image.src} sizes={SIZES.wrap} priority quality={90} />
-          {image.caption ? <figcaption>{image.caption}</figcaption> : null}
-        </figure>
-      ) : null}
-    </>
+    <section className="page-heading">
+      {kicker ? <p className="kicker">{kicker}</p> : null}
+      <h1>{title}</h1>
+      <div className="divider" />
+      {note ? <p>{note}</p> : null}
+      {children}
+    </section>
   );
 }
